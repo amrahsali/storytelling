@@ -143,8 +143,8 @@ class _StoryHomePageState extends State<StoryHomePage> {
               const SizedBox(height: 8),
               const Center(
                 child: Text(
-                  'This section displays the story generated based on the image you uploaded. '
-                      'It uses intelligent analysis to create a unique and engaging narrative just for you.',
+                  'This section displays the story generated based on the image you uploaded.'
+                      'It uses intelligent analysis to create a unique and exciting narrative just for you.',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 16,
